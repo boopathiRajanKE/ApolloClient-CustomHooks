@@ -1,0 +1,54 @@
+body {
+  color: white;
+  background: #6969ff;
+  user-select: none;
+}
+
+.sl_main_wrapper {
+  font-family: "nexa-Regular";
+
+  .sl_continents_title,
+  .sl_country_title {
+    font-family: "nexa-Black";
+    text-transform: uppercase;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 35px;
+    font-family: nexa-bold;
+    li {
+      cursor: pointer;
+      & > div {
+        padding: 12px 10px;
+      }
+    }
+  }
+
+  .sl_continent_item {
+    font-family: "nexa-Bold";
+    text-transform: uppercase;
+  }
+
+  .sl_loading_element {
+    height: 200px;
+    display: flex;
+    padding-left: 40px;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .sl_country_list_block {
+    display: flex;
+  }
+
+  .sl_close_element svg {
+    fill: white;
+    cursor: pointer;
+    margin-top: 25px;
+  }
+  .sl_country_list_wrapper ul {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0;
+  }
+}
