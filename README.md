@@ -1,13 +1,10 @@
-# Ticket Entry System
+# Continents List
 
-- Created a simple **Ticket Entry System** using the ReactJS **Create React App**.
-- Successfully Implemented all the functionalities that mentioned in the task description
-- Styled through **scss**
-- Used the **React Hooks** for state handling
+- Created a simple **Continents List** using the ReactJS **Create React App** and **Apollo Clinet GraphQL**
 
 ## How to Run
 
-1. Move the Project directory to your local directory
+1. Move the Project directory to your local directory or clone the repo
 2. Open **CMD** on project directory
 3. Enter `yarn install` or `npm install` and once successfully packages are installed.
 4. Then, Enter `yarn run start` or `npm run start`. It will automatically start a development server where the Ticket Entry System will appear.
