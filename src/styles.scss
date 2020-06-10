@@ -5,7 +5,7 @@ body {
 }
 
 .sl_main_wrapper {
-  font-family: "nexa-Regular";
+  font-family: "nexa-Black";
 
   .sl_continents_title,
   .sl_country_title {
@@ -16,7 +16,7 @@ body {
   ul {
     list-style-type: none;
     padding-left: 35px;
-    font-family: nexa-bold;
+    font-family: "nexa-black";
     li {
       cursor: pointer;
       & > div {
@@ -26,7 +26,7 @@ body {
   }
 
   .sl_continent_item {
-    font-family: "nexa-Bold";
+    font-family: "nexa-Black";
     text-transform: uppercase;
   }
 
