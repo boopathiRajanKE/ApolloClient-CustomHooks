@@ -1,6 +1,6 @@
 # Continents List
 
-- Created a simple **Continents List** using the ReactJS **Create React App** and **Apollo Clinet GraphQL**
+- Created a simple **Continents List** using the ReactJS **Create React App** and **Apollo Client GraphQL**
 
 ## How to Run
 
